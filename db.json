@@ -33,7 +33,7 @@
     {
         "id": 3,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "华润万家",
+        "name": "华润",
         "scales": 9999,
         "expressLimit": 0,
         "expressPrice": 5,
@@ -132,7 +132,7 @@
     {
         "id": 14,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "华润万家",
+        "name": "开市客",
         "scales": 9999,
         "expressLimit": 0,
         "expressPrice": 5,
