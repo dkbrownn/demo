@@ -69,7 +69,7 @@
     {
         "id": 7,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "Apple",
+        "name": "SuperMarket",
         "scales": 666,
         "expressLimit": 0,
         "expressPrice": 5,
@@ -78,7 +78,7 @@
     {
         "id": 8,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "Adidas",
+        "name": "山姆",
         "scales": 666,
         "expressLimit": 0,
         "expressPrice": 5,
@@ -87,7 +87,7 @@
     {
         "id": 9,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "NIKE",
+        "name": "万家",
         "scales": 666,
         "expressLimit": 0,
         "expressPrice": 5,
@@ -141,7 +141,7 @@
     {
         "id": 15,
         "img_url": "http://www.dell-lee.com/imgs/vue3/near.png",
-        "name": "山姆会员店",
+        "name": "世纪百联",
         "scales": 9000,
         "expressLimit": 0,
         "expressPrice": 5,
